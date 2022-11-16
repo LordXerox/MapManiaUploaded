@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'MapManiaUploaded'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3449569D6F8346F1A9010320D5696A15 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4409558E88CF4B5098EFC9A159E9B75A }}
           package: .
